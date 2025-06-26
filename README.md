@@ -24,4 +24,6 @@ In this project, we:
       BOD5   
       COLLOIDS   
       02,NO3,NO2,SO4,PO4 AND CL
-  
+
+# Model Link :  
+  https://drive.google.com/file/d/195gfKG0e7wlKIPWv0lnmGpuVCPsa0gRx/view?usp=sharing
