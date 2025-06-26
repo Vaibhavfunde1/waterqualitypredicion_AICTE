@@ -3,7 +3,7 @@
 
 # Overview
  Access to clean water is a critical global concern. Accurate prediction of various water quality metrics can help in early detection of pollution and ensure timely intervention.
-
+ 
 In this project, we:
 
   Collected and preprocessed real-world water quality datasets  
@@ -17,4 +17,11 @@ In this project, we:
      Pandas, NumPy – Data handling   
      Scikit-learn – Machine learning model and evaluation  
      Matplotlib, Seaborn – Data visualization
-     
+
+  # Predicted Water Quality Parameters
+   The model predicts multiple water quality parameters such as:
+    NH4
+    BOD5
+    COLLOIDS
+    02,NO3,NO2,SO4,PO4 AND CL
+  
