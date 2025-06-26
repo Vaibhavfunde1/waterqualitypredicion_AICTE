@@ -19,7 +19,7 @@ In this project, we:
      Matplotlib, Seaborn – Data visualization
 
   # Predicted Water Quality Parameters
-   The model predicts multiple water quality parameters such as:
+   The model predicts multiple water quality parameters such as:  
       NH4   
       BOD5   
       COLLOIDS   
