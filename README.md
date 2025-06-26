@@ -6,8 +6,8 @@
 
 In this project, we:
 
-*Collected and preprocessed real-world water quality datasets
-*Used supervised machine learning for multi-target regression
-*Built a pipeline using MultiOutputRegressor with RandomForestRegressor
-*Evaluated the model using appropriate regression metrics
+  Collected and preprocessed real-world water quality datasets  
+  Used supervised machine learning for multi-target regression   
+  Built a pipeline using MultiOutputRegressor with RandomForestRegressor   
+  Evaluated the model using appropriate regression metrics
 
