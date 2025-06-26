@@ -20,8 +20,8 @@ In this project, we:
 
   # Predicted Water Quality Parameters
    The model predicts multiple water quality parameters such as:
-    NH4
-    BOD5
-    COLLOIDS
-    02,NO3,NO2,SO4,PO4 AND CL
+      NH4
+      BOD5
+      COLLOIDS
+      02,NO3,NO2,SO4,PO4 AND CL
   
